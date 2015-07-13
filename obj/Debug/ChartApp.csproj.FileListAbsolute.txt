@@ -1,1 +1,13 @@
 C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\bin\Debug\ChartApp.exe.config
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\bin\Debug\ChartApp.exe
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\bin\Debug\ChartApp.pdb
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\bin\Debug\Akka.dll
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\bin\Debug\Akka.xml
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\obj\Debug\ChartApp.csprojResolveAssemblyReference.cache
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\obj\Debug\ChartApp.Main.resources
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\obj\Debug\ChartApp.Properties.Resources.resources
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\obj\Debug\ChartApp.csproj.GenerateResource.Cache
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\obj\Debug\ChartApp.exe
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\obj\Debug\ChartApp.pdb
