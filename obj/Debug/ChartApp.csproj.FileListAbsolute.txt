@@ -11,3 +11,5 @@ C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-
 C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\obj\Debug\ChartApp.csproj.GenerateResource.Cache
 C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\obj\Debug\ChartApp.exe
 C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\obj\Debug\ChartApp.pdb
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\bin\Debug\nunit.framework.dll
+C:\Users\johno_000\Documents\Visual Studio 2015\Projects\akka-bootcamp\src\Unit-2\DoThis\bin\Debug\nunit.framework.xml
